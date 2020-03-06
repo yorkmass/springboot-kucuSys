@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0487b1bb-e9d6-4c25-8c17-79076d8d03d9" name="Default Changelist" comment="" />
+    <list default="true" id="0487b1bb-e9d6-4c25-8c17-79076d8d03d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/cache/BusinessCacheAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/cache/BusinessCacheAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/InportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/InportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/OutportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/OutportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/ProviderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/ProviderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/SalesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/SalesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/SalesbackController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/controller/SalesbackController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Goods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Inport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Inport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Outport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Outport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Sales.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Sales.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Salesback.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/entity/Salesback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/CustomerVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/CustomerVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/GoodsVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/GoodsVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/InportVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/InportVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/OutportVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/OutportVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/ProviderVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/ProviderVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/SalesVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/SalesVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/SalesbackVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/bus/vo/SalesbackVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/cache/CacheAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/cache/CacheAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/cache/CachePool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/cache/CachePool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/ActiverUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/ActiverUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/AppFileUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/AppFileUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/DataGridView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/DataGridView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/PinyinUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/PinyinUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/ResultObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/ResultObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/TreeNodeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/common/TreeNodeBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/config/ShiroAutoConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/config/ShiroAutoConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/CacheController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/CacheController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/DeptController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/FileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/FileController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/LoginfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/LoginfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/MenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/MenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/NoticeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/NoticeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/PermissionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/PermissionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Dept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Dept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Loginfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Loginfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Permission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/realm/UserRealm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/realm/UserRealm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/service/impl/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/DeptVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/DeptVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/LoginfoVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/LoginfoVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/NoticeVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/NoticeVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/PermissionVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/PermissionVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/RoleVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/RoleVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/UserVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yeqifu/sys/vo/UserVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yeqifu/generator/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/yeqifu/generator/CodeGenerator.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +73,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,6 +99,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../watchdog/.idea/libraries" />
@@ -61,6 +129,7 @@
       <workItem from="1583472991813" duration="3380000" />
       <workItem from="1583476755936" duration="3540000" />
       <workItem from="1583480419056" duration="75000" />
+      <workItem from="1583480736405" duration="2704000" />
     </task>
     <servers />
   </component>
@@ -128,6 +197,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="771" y="202" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1583430161125" />
+    <state x="652" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1583480947467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583480947467" />
     <state x="647" y="157" width="626" height="735" key="find.popup" timestamp="1583479351330">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
