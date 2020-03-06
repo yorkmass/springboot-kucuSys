@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0487b1bb-e9d6-4c25-8c17-79076d8d03d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YiRFvXXYxdk3GqY1AK8j4813Pq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../watchdog/.idea/libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WarehouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="warehouse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yeqifu.WarehouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0487b1bb-e9d6-4c25-8c17-79076d8d03d9" name="Default Changelist" comment="" />
+      <created>1583423327963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583423327963</updated>
+      <workItem from="1583423374691" duration="4476000" />
+      <workItem from="1583472991813" duration="3380000" />
+      <workItem from="1583476755936" duration="3540000" />
+      <workItem from="1583480419056" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1583431070758">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583431070758" />
+    <state width="938" height="285" key="GridCell.Tab.0.bottom" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.0.center" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.0.left" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.0.right" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.1.bottom" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.1.center" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.1.left" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="285" key="GridCell.Tab.1.right" timestamp="1583480493377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493377" />
+    <state width="938" height="352" key="GridCell.Tab.2.bottom" timestamp="1583480493373">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493373" />
+    <state width="938" height="352" key="GridCell.Tab.2.center" timestamp="1583480493373">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493373" />
+    <state width="938" height="352" key="GridCell.Tab.2.left" timestamp="1583480493373">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493373" />
+    <state width="938" height="352" key="GridCell.Tab.2.right" timestamp="1583480493373">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583480493373" />
+    <state x="626" y="198" key="Maven.ArtifactSearchDialog" timestamp="1583430994092">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="626" y="198" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583430994092" />
+    <state x="771" y="202" key="SettingsEditor" timestamp="1583430161125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="771" y="202" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1583430161125" />
+    <state x="647" y="157" width="626" height="735" key="find.popup" timestamp="1583479351330">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="647" y="157" width="626" height="735" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1583479351330" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1583479314158">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1583479314158" />
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
+  </component>
+</project>
